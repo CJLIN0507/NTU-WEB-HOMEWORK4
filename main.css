@@ -1,0 +1,57 @@
+.workone{background-color:lightblue;  
+width:0px;          
+height:0px;
+border-top:100px solid green;
+border-bottom: 100px solid blue;
+border-right: 100px solid red;
+border-left: 100px solid yellow;}
+
+
+.worktwo{background-color:lightblue;
+width:0px;
+height:0px;
+border-top: 100px solid lightblue;
+border-bottom: 0px;
+border-right: 100px solid blue;
+border-left: 100px solid #02007b;
+float:left;}
+
+.workthree-a{background-color:#a7ff80;
+width:200px;
+height:50px;
+border:6px solid green;
+border-top-style:double;
+border-bottom-style:dotted;}
+
+.workthree-b{background-color:#a7ff80;
+width:150px;
+height:200px;
+border:6px solid green;
+border-top-style:none;
+margin-left:25px}
+
+.workfour{background-color:#ffc491;
+width:280px;
+height:200px;}
+
+.workfive{background-color:#e2e2e2;
+width:280px;
+height:280px;}
+
+h1{text-align: center;
+font-size:18px;
+font-family: Kohinoor Bangla;
+color:#313131;
+Padding-top: auto;
+line-height:18px;
+position:relative; 
+top:20px;}
+
+p{text-align: center;
+font-size:18px;
+font-family: Kohinoor Bangla;
+color:#313131;
+Padding-top: auto;
+line-height:18px;
+position:relative; 
+top:20px;}
